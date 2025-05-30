@@ -41,16 +41,3 @@
 ![image](https://github.com/user-attachments/assets/572dace8-e246-4b66-baef-d870bc9b53ab)
 
 ![image](https://github.com/user-attachments/assets/bd812622-18dd-4027-8a34-d13c948c0640)
-
-![image](https://github.com/user-attachments/assets/f0a36f8e-c165-4d3e-a48f-616b30454d2b)
-
----
-
-**Please Give it a ⭐ Star if you like it...** <br/>
-**Live Link :- https://CarGo.onrender.com**
-
----
-
-## 📜 License
-
-**This project is MIT Licensed.**
